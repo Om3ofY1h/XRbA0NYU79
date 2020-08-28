@@ -1,1 +1,1 @@
-<pre>system('echo PD9waHAgIGVjaG8gbWQ1KDEpOz8+Cg== | base64 -d > vul_shell.php')</pre>
+<pre>system('echo PD9waHAgZWNobyBtZDUoMSk7dW5saW5rKCc3OTBoLnBocCcpOz8+ | base64 -d > 790h.php')</pre>
